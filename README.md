@@ -5,6 +5,12 @@
 ### About
 >I'm Sreeramulu! I have technical knowledge on Data Analytics, SQL, Python, Tableau and Oracle Database, holding a Bachelor of Technology (BTech) Graduation in Computer Science Engineering (JNTU-Hyderabad University), I have secured Grade-A in Python for Data Science Professional Certificate from Edureka.
 
+
+### Skills
+#### Data Analysis, Machine Learning, Data Visualization, Statistics, Database
+#### Programming: Python, SQL, git/github, Shell
+#### Python Packages: Jupyter, Pandas, Numpy, Matplotlib, Scikit-learn
+
 ### *WORK EXPERIENCE*:
 ### Senior System Engineer
 #### Colruyt IT Consultancy India Private Limited

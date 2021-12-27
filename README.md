@@ -1,13 +1,11 @@
 # Sreeramulu Dandu - Data Analysis Portfolio 
 
-[ Linkedin ](https://www.linkedin.com/in/sreeramulu-dandu/) . [ sreeramulu540@gmail.com ] . [ +91-8886883888 ]
+[ Linkedin Profile ](https://www.linkedin.com/in/sreeramulu-dandu/) . [ sreeramulu540@gmail.com ] . [ +91-8886883888 ] . [ Hyderabad, Telangana ]
 
 ### About
 >I'm Sreeramulu! I have technical knowledge on Data Analytics, SQL, Python, Tableau and Oracle Database, holding a Bachelor of Technology (BTech) Graduation in Computer Science Engineering (JNTU-Hyderabad University), I have secured Grade-A in Python for Data Science Professional Certificate from Edureka.
 
-
 ### *WORK EXPERIENCE*:
-
 ### Senior System Engineer
 #### Colruyt IT Consultancy India Private Limited
 ##### Dec'2018 - Present, Hyderabad
@@ -38,8 +36,17 @@
 
 ### *COURSE/CERTIFICATES*:
 - [Python for Data Science Professional Certificate](https://www.edureka.co/certificates/mycertificate/c9048e5311037bc6a1f9fad570589212)
-- Oracle Database 12C administration : The course is about Oracle 12c Administration, Mode of learning is though offline classroom training
-from UNIRAC Technologies
-- Red Hat Enterprise Linux-7 : The course is about RHEL-7 which covers both administration and Engineering tasks, Mode of learning is
-though offline classroom training from COSS India.
+- Oracle Database 12C administration : The course is about Oracle 12c Administration, Mode of learning is though offline classroom training from UNIRAC Technologies
+- Red Hat Enterprise Linux-7 : The course is about RHEL-7 which covers both administration and Engineering tasks, Mode of learning is though offline classroom training from COSS India.
+
+### EDUCATION QUALIFICATION:
+- Studied Bachelor of Technology (C.S.E) from JNTU Hyderabad in Turbo Machinery Institute of Science & Technology, Hyderabad, 2012.
+- Studied Board of Intermediate Education (M.P.C) from the Govt Junior College, Hyderabad, 2008.
+- Studied Secondary School Certificate (S.S.C) from St. Sai Grammar High School, Hyderabad, 2004.
+
+### ACHIEVEMENTS:
+- Continuous high performer from 2016 till 2020, selected for inspire/aspire program;
+- Participated in Technical Seminar and Secured 3rd position in the event;
+- Participated in Inter College Cricket tournament & Member of Winning Cricket team;
+- Organized an Event (Enigma) in State level Technical Symposium (HELLOWORLD2K11) at the college successfully;
 

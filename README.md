@@ -16,7 +16,7 @@ Senior Azure Data Engineer with 11+ years of IT experience, including 4+ years s
 ### *WORK EXPERIENCE*:
 
 ### Senior Azure Data Engineer
-#### Colruyt IT Consultancy India Private Limited
+#### Colruyt Group India Private Limited
 ##### Feb'2022 – Present, Hyderabad
 ##### Roles & Responsibilities:
 - Designed and implemented end-to-end Azure data engineering pipelines supporting supply chain analytics and customer segmentation.
@@ -29,7 +29,7 @@ Senior Azure Data Engineer with 11+ years of IT experience, including 4+ years s
 - Collaborated with architects, product owners, and business stakeholders to deliver enterprise-grade analytics solutions.
 
 ### Senior System Engineer
-#### Colruyt IT Consultancy India Private Limited
+#### Colruyt Group India Private Limited
 ##### April'2014 - Jan'2022, Hyderabad
 ##### Roles & Responsibilities:
 - Working as DBA extensive knowledge on Oracle 11g, 12c & 19c databases;

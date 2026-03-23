@@ -52,7 +52,7 @@ Senior Azure Data Engineer with 11+ years of IT experience, including 4+ years s
 ### EDUCATION QUALIFICATION:
 - Studied Bachelor of Technology (C.S.E) from JNTU Hyderabad in Turbo Machinery Institute of Science & Technology, Hyderabad, 2012.
 - Studied Board of Intermediate Education (M.P.C) from the Govt Junior College, Hyderabad, 2008.
-- Studied Secondary School Certificate (S.S.C) from St. Sai Grammar High School, Hyderabad, 2004.
+- Studied Secondary School Certificate (S.S.C) from Z.P.H.S, Hyderabad, 2004.
 
 ### ACHIEVEMENTS:
 - Continuous high performer from 2016 till 2020, selected for inspire/aspire program;

@@ -7,18 +7,18 @@ Senior Azure Data Engineer with 11+ years of IT experience, including 4+ years s
 
 
 ### Skills
-### Data Engineering: ETL / ELT, data modelling, data integration, data warehousing.
-### Programming: Python, PySpark, SQL, PL/SQL, Basic Bash Script, Ansible
-### Tools: GitHub, Jupyter Notebook, Jira, SSMS, TOAD, ServiceNow, Control-M, Azure Datalake Storage (ADLS Gen2), Blob Storage, Azure Data Factory (ADF), Azure Databricks, Azure Synapse, Azure LogicApps, Microsoft Fabric, Amazon S3
-### Databases: MySQL, Oracle, Microsoft SQL Server
-### Software Methodologies: Agile / Scrum, Waterfall model
+- Data Engineering: ETL / ELT, data modelling, data integration, data warehousing.
+- Programming: Python, PySpark, SQL, PL/SQL, Basic Bash Script, Ansible
+- Tools: GitHub, Jupyter Notebook, Jira, SSMS, TOAD, ServiceNow, Control-M, Azure Datalake Storage (ADLS Gen2), Blob Storage, Azure Data Factory (ADF), Azure Databricks, Azure Synapse, Azure LogicApps, Microsoft Fabric, Amazon S3
+- Databases: MySQL, Oracle, Microsoft SQL Server
+- Software Methodologies: Agile / Scrum, Waterfall model
 
 ### *WORK EXPERIENCE*:
 
 ### Senior Azure Data Engineer
 #### Colruyt IT Consultancy India Private Limited
 ##### Feb'2022 – Present, Hyderabad
-#### Roles & Responsibilities:
+##### Roles & Responsibilities:
 - Designed and implemented end-to-end Azure data engineering pipelines supporting supply chain analytics and customer segmentation.
 - Built scalable batch and near real-time pipelines using Azure Data Factory and Azure Databricks.
 - Developed Databricks Lakehouse architecture using bronze, silver, and gold layers with Delta tables.
@@ -31,7 +31,7 @@ Senior Azure Data Engineer with 11+ years of IT experience, including 4+ years s
 ### Senior System Engineer
 #### Colruyt IT Consultancy India Private Limited
 ##### April'2014 - Jan'2022, Hyderabad
-#### Roles & Responsibilities:
+##### Roles & Responsibilities:
 - Working as DBA extensive knowledge on Oracle 11g, 12c & 19c databases;
 - Creation of users & managing their roles, privileges etc.;
 - Performing data recovery operations for human errors and business needs using RMAN and data pump technologies;
